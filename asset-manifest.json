@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/climb-form/static/css/main.f50c69e8.chunk.css",
+    "main.js": "/climb-form/static/js/main.7d671d0b.chunk.js",
+    "main.js.map": "/climb-form/static/js/main.7d671d0b.chunk.js.map",
+    "runtime-main.js": "/climb-form/static/js/runtime-main.63cdd0a7.js",
+    "runtime-main.js.map": "/climb-form/static/js/runtime-main.63cdd0a7.js.map",
+    "static/js/2.6e979893.chunk.js": "/climb-form/static/js/2.6e979893.chunk.js",
+    "static/js/2.6e979893.chunk.js.map": "/climb-form/static/js/2.6e979893.chunk.js.map",
+    "index.html": "/climb-form/index.html",
+    "precache-manifest.87276c0aa58cd6a53b39f166e866ea9f.js": "/climb-form/precache-manifest.87276c0aa58cd6a53b39f166e866ea9f.js",
+    "service-worker.js": "/climb-form/service-worker.js",
+    "static/css/main.f50c69e8.chunk.css.map": "/climb-form/static/css/main.f50c69e8.chunk.css.map",
+    "static/js/2.6e979893.chunk.js.LICENSE.txt": "/climb-form/static/js/2.6e979893.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/climb-form/static/media/climber.0073b9e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63cdd0a7.js",
+    "static/js/2.6e979893.chunk.js",
+    "static/css/main.f50c69e8.chunk.css",
+    "static/js/main.7d671d0b.chunk.js"
+  ]
+}
